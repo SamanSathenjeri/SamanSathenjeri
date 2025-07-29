@@ -16,7 +16,7 @@
   - 📈 Calibration and Simulation of Rough Volatility Models - Optimized Monte Carlo simulations of fractional Brownian volatility, using the Rough Bergomi model, on a multi-node HPC cluster
   - 💻 [Collaborative Code Editor](https://github.com/SamanSathenjeri/codeEditor) - Uses Websockets and Amazon S3 to create a collaborative experience for pair (or group) coding (this one's on the backburner though 😔)
 
-[![Saman's Github Stats](https://github-readme-stats.vercel.app/api?username=samansathenjeri)](https://github.com/anuraghazra/github-readme-stats)
+[![Saman's Github Stats](https://github-readme-stats.vercel.app/api?username=samansathenjeri&hide_rank=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SamanSathenjeri/SamanSathenjeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
