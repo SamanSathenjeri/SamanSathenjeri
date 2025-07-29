@@ -1,6 +1,4 @@
-## Hey, it's Saman Sathenjeri ❤️
-
-<p align="center"><font size="4" color="#008000">This centered text is size 4 and dark green.</font></p>
+## *********************  Hey, it's Saman Sathenjeri ❤️  *********************
 
 ![AlexNet](https://cdn.sanity.io/images/vr8gru94/production/511d51bd1d1ec3b7155250bf7e53cfa6cb52f215-1339x503.png)
 
