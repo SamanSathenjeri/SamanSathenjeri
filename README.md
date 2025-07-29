@@ -12,7 +12,10 @@
   - 🎯 Finetuned to summarize long texts (answer SQuAD-style questions) --> possibly use it with RAG
 
 - 🧑‍🍳 Projects that are cooking:
-  - 
+  - 💻 [Collaborative Code Editor](https://github.com/SamanSathenjeri/codeEditor) - Uses Websockets and Amazon S3 to create a collaborative experience for pair (or group) coding
+  - ✍️ Smart Document System/Assistant - Taking inspiration from Microsoft's Copilot and Semantic Indexing to create a document system that can use 
+  - 📈 Calibration and Simulation of Rough Volatility Models - Optimized Monte Carlo simulations of fractional Brownian volatility, using the Rough Bergomi model, on a multi-node HPC cluster
+
 
 <!--
 **SamanSathenjeri/SamanSathenjeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
