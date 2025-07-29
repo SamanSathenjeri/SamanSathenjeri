@@ -1,4 +1,4 @@
-## ** Hey, it's Saman Sathenjeri ❤️ **
+# Hey, it's Saman Sathenjeri ❤️
 
 ![AlexNet](https://cdn.sanity.io/images/vr8gru94/production/511d51bd1d1ec3b7155250bf7e53cfa6cb52f215-1339x503.png)
 
@@ -16,6 +16,7 @@
   - 📈 Calibration and Simulation of Rough Volatility Models - Optimized Monte Carlo simulations of fractional Brownian volatility, using the Rough Bergomi model, on a multi-node HPC cluster
   - 💻 [Collaborative Code Editor](https://github.com/SamanSathenjeri/codeEditor) - Uses Websockets and Amazon S3 to create a collaborative experience for pair (or group) coding (this one's on the backburner though 😔)
 
+[![Saman's Github Stats](https://github-readme-stats.vercel.app/api?username=samansathenjeri)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SamanSathenjeri/SamanSathenjeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
