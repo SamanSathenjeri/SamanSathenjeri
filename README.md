@@ -14,7 +14,7 @@
 - 🧑‍🍳 Projects that are cooking:
   - ✍️ Smart Document System/Assistant - Taking inspiration from Microsoft's Copilot and Semantic Indexing to create a document system that can use 
   - 📈 Calibration and Simulation of Rough Volatility Models - Optimized Monte Carlo simulations of fractional Brownian volatility, using the Rough Bergomi model, on a multi-node HPC cluster
-  - 💻 [Collaborative Code Editor](https://github.com/SamanSathenjeri/codeEditor) - Uses Websockets and Amazon S3 to create a collaborative experience for pair (or group) coding [this one's on the backburner though :(]
+  - 💻 [Collaborative Code Editor](https://github.com/SamanSathenjeri/codeEditor) - Uses Websockets and Amazon S3 to create a collaborative experience for pair (or group) coding (this one's on the backburner though 😔)
 
 
 <!--
