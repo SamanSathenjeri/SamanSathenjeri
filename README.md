@@ -1,6 +1,6 @@
 ## Hey, it's Saman Sathenjeri ❤️
 
-![AlexNet](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinecone.io%2Flearn%2Fseries%2Fimage-search%2Fimagenet%2F&psig=AOvVaw3fduBMN3ij0inyAfe-kyi6&ust=1753839937842000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJjT8Yf54I4DFQAAAAAdAAAAABAE)
+![AlexNet](https://cdn.sanity.io/images/vr8gru94/production/511d51bd1d1ec3b7155250bf7e53cfa6cb52f215-1339x503.png)
 
 - 👀 Check out my nano implementation of the Deepseek-V3 model
   - 🧑‍🔬 Comes with Mixture of Experts (MoE), Multiheaded Latent Attention (MLA), and Rotary Position Embeddings (RoPE)
